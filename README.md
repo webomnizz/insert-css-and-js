@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Insert CSS and Js ===
 Contributors: jogeshpi
 Donate link: http://example.com/
 Tags: Facebook Pixel, css, javascript, code, content, tag manager, google analytics
