@@ -73,6 +73,10 @@
     margin-top: 10px;
 }
 
+.icj_dashboard .title {
+    margin-bottom: 0px;
+}
+
 .icj_dashboard .button {
     padding: 5px 10px;
     background: #663bc8;

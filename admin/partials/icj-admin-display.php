@@ -17,8 +17,10 @@
         <form method="POST">
             <?php wp_nonce_field( 'icj_action', 'icj_field' ); ?>
             <h2 class="title">Header</h2>
+            <p class="description">codes before &lt;/head&gt; tag</p>
             <div id="editor" class="icj_editor header"></div>
             <h2 class="title">Footer</h2>
+            <p class="description">codes before &lt;/body&gt; tag</p>
             <div id="editor" class="icj_editor footer"></div>
             <p class="submit">
                 <input type="submit" name="submit" id="submit" class="button button-primary" value="Save Changes">
