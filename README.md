@@ -16,3 +16,7 @@ You can integrate the Facebook pixel, Google Analytics, Google Tag Manager, Cust
 
 ### 1.0
 * Initial Release
+
+## Todo
+
+[ ] Different Header / Footer Section Per Page
